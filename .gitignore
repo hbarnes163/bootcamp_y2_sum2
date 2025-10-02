@@ -3,5 +3,8 @@
 *.jpg
 *.png
 *.jpeg
+*.xlsx
+*.pptx
+
 
 *Day 4\data\*
